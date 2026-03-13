@@ -1,0 +1,32 @@
+.feed {
+  padding: 15px;
+}
+
+.feed-title {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.feed-area {
+  height: 500px;
+  border: 1px solid #eee;
+  padding: 10px;
+  overflow-y: scroll;
+}
+
+.feed-list {
+  list-style-type: none;
+}
+
+.feed-item {
+  background-color: #383838;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.feed-status {
+  text-align: center;
+  padding: 10px;
+}
